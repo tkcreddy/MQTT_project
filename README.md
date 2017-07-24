@@ -8,6 +8,7 @@ http://www.steves-internet-guide.com/mosquitto-tls/ --- Reference
 4. sudo apt install python
 5. sudo apt-get update
 6. sudo apt-get install python-setuptools python-dev build-essential
+7. sudo easy_install pip
 
 openssl genrsa -des3 -out ca.key 2048
 
